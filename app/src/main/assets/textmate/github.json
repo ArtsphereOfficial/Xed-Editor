@@ -83,7 +83,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#494B57"
+        "foreground": "#4682FA"
       }
     },
     {
@@ -115,7 +115,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#834DF0"
+        "foreground": "#A177F4"
       }
     },
     {
@@ -167,7 +167,7 @@
       "name": "Strings: Escape Sequences",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#4682FA"
       }
     },
     {
@@ -188,7 +188,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#4682FA"
       }
     },
     {
