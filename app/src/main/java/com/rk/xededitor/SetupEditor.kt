@@ -81,7 +81,7 @@ class SetupEditor(val editor: CodeEditor, private val ctx: Context) {
                     ThemeModel(IThemeSource.fromInputStream(darcula_oled, "darcula.json", null))
                 )
                 lightThemeRegistry?.loadTheme(
-                    ThemeModel(IThemeSource.fromInputStream(quietlight, "quietlight.json", null))
+                    ThemeModel(IThemeSource.fromInputStream(github, "github.json", null))
                 )
             }catch (e:Exception){
                 throw RuntimeException(e)
