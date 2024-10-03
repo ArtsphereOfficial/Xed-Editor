@@ -89,7 +89,7 @@ class SetupEditor(val editor: CodeEditor, private val ctx: Context) {
                 try {
                     darcula.close()
                     darcula_oled.close()
-                    quietlight.close()
+                    github.close()
                 }catch (e:Exception){
                     throw RuntimeException(e)
                 }
