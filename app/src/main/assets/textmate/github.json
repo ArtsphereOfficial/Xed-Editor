@@ -94,7 +94,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#9C5D27"
+        "foreground": "#4682FA"
       }
     },
     {
@@ -104,7 +104,7 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#494B57"
+        "foreground": "#A177F4"
       }
     },
     {
@@ -188,7 +188,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#4682FA"
+        "foreground": "#494B57"
       }
     },
     {
