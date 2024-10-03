@@ -70,7 +70,7 @@ class SetupEditor(val editor: CodeEditor, private val ctx: Context) {
 
             val darcula = context.assets.open("textmate/darcula.json")
             val darcula_oled = context.assets.open("textmate/black/darcula.json")
-            val quietlight = context.assets.open("textmate/quietlight.json")
+            val github = context.assets.open("textmate/github.json")
 
 
             try {
