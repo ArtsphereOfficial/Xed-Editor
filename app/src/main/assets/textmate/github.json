@@ -115,7 +115,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#A177F4"
+        "foreground": "#834DF0"
       }
     },
     {
@@ -128,7 +128,6 @@
         "support.class"
       ],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#EC8F4C"
       }
     },
@@ -220,7 +219,7 @@
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#55A76A"
+        "foreground": "#369650"
       }
     },
     {
@@ -230,8 +229,7 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#A177F4"
+        "foreground": "#834DF0"
       }
     },
     {
@@ -241,7 +239,7 @@
         "punctuation.definition.entity"
       ],
       "settings": {
-        "foreground": "#9C5D27"
+        "foreground": "#4682FA"
       }
     },
     {
@@ -253,7 +251,7 @@
         "entity.name.tag.css"
       ],
       "settings": {
-        "foreground": "#7A3E9D"
+        "foreground": "#E55765"
       }
     },
     {
@@ -263,7 +261,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#9C5D27"
+        "foreground": "#369650"
       }
     },
     {
@@ -274,7 +272,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#448C27"
+        "foreground": "#315FBD"
       }
     },
     {
